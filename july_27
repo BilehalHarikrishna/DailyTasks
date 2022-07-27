@@ -1,0 +1,27 @@
+Today i Have learnt these topics
+#Snapshots
+#Elastic Load Balance
+Distributes a incoming application or network traffic across
+    Amazan Ec2 instance
+    containers
+    IP address
+    Available Zones
+#ELB supports three types
+    Application load balancer
+    Network load balancer
+    Classic load balancer
+    Gateway load balancer
+app load balancer only for http https
+
+Creating a Amazon Machine Image(AMIs)
+Creating Target Group
+Creating Application load balancer to multiple instances
+#Cloud watch 
+    Metrics
+        CPU utilization
+        Status check failed 
+        Network in and out
+        disk reads
+    events
+    logs
+        
